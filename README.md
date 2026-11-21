@@ -1,6 +1,7 @@
 # Home Assistant Community Add-on: TVHeadend
-
 [![GitHub Release][releases-shield]][releases]
+[![Privacy Check](https://github.com/7wells/addon-tvheadend/actions/workflows/privacy-check.yml/badge.svg?branch=main)](https://github.com/7wells/addon-tvheadend/actions/workflows/privacy-check.yml)
+
 ![Project Stage][project-stage-shield]
 [![License][license-shield]](LICENSE.md)
 
